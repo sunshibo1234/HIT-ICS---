@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T10:07:44.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" version="17.1.2" etag="pOaXh4RKR2Qw_b5ZScpj" type="github"><diagram id="KOFlrqzvZw_nYIN8lbA3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-13T11:15:32.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="PZsZjb5_qgvYV1wq5zXO" version="17.1.2" type="github">
+  <diagram id="KOFlrqzvZw_nYIN8lbA3" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlr47rAe-lZuI5P66Sya-28" value="1.1&lt;br style=&quot;font-size: 13px;&quot;&gt;信息上报" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="244" y="602" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-31" value="1.2&lt;br style=&quot;font-size: 13px;&quot;&gt;隔离管理" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="394" y="602" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-32" value="1.健康上报" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="304" y="522" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-33" value="1.1.1&lt;br style=&quot;font-size: 13px;&quot;&gt;获取地址" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="204" y="682" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-34" value="1.1.2&lt;br style=&quot;font-size: 13px;&quot;&gt;提交表单" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="274" y="682" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-35" value="1.2.1&lt;br style=&quot;font-size: 13px;&quot;&gt;隔离状态&lt;br style=&quot;font-size: 13px;&quot;&gt;管制" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="374" y="682" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-36" value="1.2.2&lt;br style=&quot;font-size: 13px;&quot;&gt;申请解封" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="454" y="682" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=0;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="224" y="482" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-39" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="174" y="602" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-40" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="394" y="622" width="186" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-41" value="2.疫情地图" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="304" y="790" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-42" value="2.1&lt;br&gt;定位" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="150" y="870" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-43" value="2.2&lt;br&gt;展示&lt;br&gt;疫情区域" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="309" y="870" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-44" value="2.3&lt;br&gt;路径规划" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-45" value="2.2.1&lt;br&gt;获取疫情&lt;br&gt;地址信息" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="321" y="950" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-46" value="2.3.1&lt;br&gt;生成&lt;br&gt;最佳路径" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="950" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-47" value="2.3.2&lt;br&gt;生成&lt;br&gt;路径信息" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="530" y="950" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-49" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="800" width="486" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-50" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="850" width="387" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-51" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=none;rotation=-75;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="100" y="748.38" width="258" height="141.62" as="geometry" />
+        </mxCell>
+        <mxCell id="mlr47rAe-lZuI5P66Sya-52" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=default;gradientColor=none;shadow=0;sketch=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="314" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
